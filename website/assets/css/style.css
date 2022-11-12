@@ -1,3 +1,51 @@
 body{
+    background: #ffffff;
+}
+
+.tagline1{
+    font-size: 6.5rem;
+
+}
+.tagline2{
+    font-size: 3.8rem;
+
+}
+.top-50 {
+    top: 40%!important;
+}
+
+.img-tagline{
+height: 700px!important ;
+width: 100%;
+}
+.img-firstHeading{
+    height: 350px!important ;
+    width: 350px;
+    }
+
+.container-heinseberg{
+    max-width: 400px;
+}
+.container-keyboard{
+    max-width: 300px;
+}
+
+.img-services{
+    height: 280px!important ;
+    width: 300px;
+    }
+
+.fs{
+    font-size: small;
+}
+.form-contact{
+    max-width: 900px;
     background: #BDBDBD;
+}
+
+.pContact1 {
+    padding-left: 12rem!important;
+}
+.pContact2 {
+    padding-left: 11rem!important;
 }
